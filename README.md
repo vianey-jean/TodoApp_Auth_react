@@ -1,3 +1,6 @@
+# To Do
+### `mettre en place le login et logOut sur sidebar`
+### `mettre en place add todo sur navbar `
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
